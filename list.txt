@@ -6,3 +6,5 @@
 0.0.0.0 share.notizie.it
 0.0.0.0 888casino.it
 0.0.0.0 declk.com
+0.0.0.0 share.donnemagazine.it
+0.0.0.0 notizie.it
