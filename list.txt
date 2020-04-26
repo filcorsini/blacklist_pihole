@@ -1,6 +1,6 @@
 # Homepage: 
 # Title: fil_Blacklist
-# Domain count: 4
+# Domain count: 14
 # ===================================================================
 0.0.0.0 reallifecam.com
 0.0.0.0 share.notizie.it
@@ -8,3 +8,26 @@
 0.0.0.0 declk.com
 0.0.0.0 share.donnemagazine.it
 0.0.0.0 notizie.it
+0.0.0.0 syndication.optimizesrv.com
+0.0.0.0 pickupmates.com
+0.0.0.0 share.motorimagazine.it
+0.0.0.0 share.viaggiamo.it
+0.0.0.0 share.foodblog.it
+0.0.0.0 share.style24.it
+0.0.0.0 share.offerteshopping.it
+0.0.0.0 share.tuobenessere.it
+0.0.0.0 share.mammemagazine.it
+0.0.0.0 motorimagazine.it
+0.0.0.0 viaggiamo.it
+0.0.0.0 foodblog.it
+0.0.0.0 style24.it
+0.0.0.0 offerteshopping.it
+0.0.0.0 tuobenessere.it
+0.0.0.0 mammemagazine.it
+0.0.0.0 www.888casino.it
+0.0.0.0 cjf25jklrwqt.com
+0.0.0.0 scopamici.com
+0.0.0.0 hitparades.org
+0.0.0.0 planetwin365.it
+0.0.0.0 vpn1aprotectplus.com
+0.0.0.0 highsecureeu.com
