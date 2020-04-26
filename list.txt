@@ -50,3 +50,12 @@
 0.0.0.0 www.mammemagazine.it
 0.0.0.0 www.share.notizie.it
 0.0.0.0 www.share.donnemagazine.it
+0.0.0.0 nta1vb6cdlrl.com
+0.0.0.0 fapvid.com
+0.0.0.0 www.nta1vb6cdlrl.com
+0.0.0.0 www.fapvid.com
+0.0.0.0 crentgate.com
+0.0.0.0 ro7s8wo57qnb.com
+0.0.0.0 www.crentgate.com
+0.0.0.0 zop381q5o0q1.com
+0.0.0.0 best-dates-here.com
